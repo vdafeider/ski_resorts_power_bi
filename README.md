@@ -4,10 +4,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the **Ski Resorts Catalogue App** created in Power BI. It includes detailed information about approximately 500 ski resorts worldwide, covering location, prices, slopes, lifts, seasons, and a supplementary table with snow cover data for each month of 2022.
-
-The project was an attempt to explore Power BI’s capabilities for creating app-like dashboards.
-
 ---
 
 ## Table of Contents
@@ -23,9 +19,12 @@ The project was an attempt to explore Power BI’s capabilities for creating app
 10. [Author](#author)
 
 ---
-
 ## Project Overview
+This repository contains the **Ski Resorts Catalogue App** created in Power BI. It includes detailed information about approximately 500 ski resorts worldwide, covering location, prices, slopes, lifts, seasons, and a supplementary table with snow cover data for each month of 2022.
 
+The project was an attempt to explore Power BI’s capabilities for creating app-like dashboards.
+
+---
 ### Tools Used
 - **Power BI** – building the app  
 - **Figma** – prototyping visualization  
